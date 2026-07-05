@@ -1,0 +1,8 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A clean, modern, and highly polished professional portfolio website for Saron Getachew, featuring dynamic resume modules, custom project showcases, interactive dark/light mode, and an advanced Gemini-powered carrier chatbot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
