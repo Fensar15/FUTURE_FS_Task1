@@ -2,7 +2,7 @@
 
 Welcome to my professional software engineering portfolio! This is a state-of-the-art, high-fidelity, full-stack application designed to showcase my experience, projects, and technical capabilities, while demonstrating real-time interactive engineering.
 
-🚀 **Live Preview:** [Explore the Interactive App](https://ais-pre-qwc7qo3avqiton7auqpxoi-504560988454.europe-west2.run.app)
+🚀 **Live Preview:** [Explore the Interactive App](https://ai.studio/apps/773cbe0e-0809-4b57-8b44-ab0e9be8459c)
 
 ---
 
