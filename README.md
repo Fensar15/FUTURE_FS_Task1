@@ -92,8 +92,8 @@ npm run start
 I am actively searching for software engineering internships, remote positions, and full-stack project collaborations! 
 
 * **Email:** [getachewsaron2025@gmail.com](mailto:getachewsaron2025@gmail.com)
-* **GitHub:** [@saron-getachew](https://github.com/saron-getachew)
-* **LinkedIn:** [Saron Getachew on LinkedIn](https://www.linkedin.com/company/future-interns/)
+* **GitHub:** [@saron-getachew](https://github.com/Fensar15)
+* **LinkedIn:** [Saron Getachew on LinkedIn](https://www.linkedin.com/in/saron-chala-7a7207380?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 *Created as part of the Future Interns program, showcasing modern web engineering, security best practices, and elegant system visuals.*
