@@ -2,7 +2,7 @@
 
 Welcome to my professional software engineering portfolio! This is a state-of-the-art, high-fidelity, full-stack application designed to showcase my experience, projects, and technical capabilities, while demonstrating real-time interactive engineering.
 
-🚀 **Live Preview:** [Explore the Interactive App](https://saron-getachew.ai)
+🚀 **Live Preview:** [Explore the Interactive App](https://fensar15.github.io/FUTURE_FS_Task1/)
 
 ---
 
