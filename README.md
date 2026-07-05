@@ -1,8 +1,8 @@
-# Saron Getachew | Full-Stack AI-Integrated Portfolio Engine
+# Saron Getachew | Full-Stack AI-Integrated Portfolio Enginehttps:
 
 Welcome to my professional software engineering portfolio! This is a state-of-the-art, high-fidelity, full-stack application designed to showcase my experience, projects, and technical capabilities, while demonstrating real-time interactive engineering.
 
-🚀 **Live Preview:** [Explore the Interactive App](https://ais-pre-qwc7qo3avqiton7auqpxoi-504560988454.europe-west2.run.app)
+🚀 **Live Preview:** [Explore the Interactive App](https://personal-portfolio-694828975515.europe-west2.run.app)
 
 ---
 
